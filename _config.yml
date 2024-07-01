@@ -12,7 +12,7 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Hieu T. Nguyen"
 description              : &description "I am interested in Deep Learning, Computer Vision, and Medical Imaging"
-url                      : https://hieut.nguyen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hieu1999.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hieu1999210/hieut.nguyen.github.io"
 
