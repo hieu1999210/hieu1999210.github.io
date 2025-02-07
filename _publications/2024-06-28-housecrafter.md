@@ -1,7 +1,7 @@
 ---
 title: "HouseCrafter: Lifting Floorplans to 3D Scenes with 2D Diffusion Model"
 collection: publications
-permalink: https://arxiv.org/abs/2406.20077
+permalink: housecrafter
 venue: 'Arxiv'
 paperurl: 'https://arxiv.org/abs/2406.20077'
 projecturl: 'https://neu-vi.github.io/houseCrafter/'

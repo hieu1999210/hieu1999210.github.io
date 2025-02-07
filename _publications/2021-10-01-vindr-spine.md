@@ -1,7 +1,7 @@
 ---
 title: "VinDr-SpineXR: A deep learning framework for spinal lesions detection and classification from radiographs"
 collection: publications
-permalink: https://link.springer.com/chapter/10.1007/978-3-030-87240-3_28
+permalink: vindr_spinexr
 venue: 'Medical Image Computing and Computer Assisted Intervention–MICCAI 2021'
 paperurl: 'https://arxiv.org/abs/2106.12930'
 projecturl: 'https://vindr.ai/datasets/spinexr'

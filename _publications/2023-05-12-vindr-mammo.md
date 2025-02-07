@@ -1,7 +1,7 @@
 ---
 title: "VinDr-Mammo: A large-scale benchmark dataset for computer-aided diagnosis in full-field digital mammography"
 collection: publications
-permalink: https://www.nature.com/articles/s41597-023-02100-7
+permalink: vindr_mammo
 venue: 'Medical Image Computing and Computer Assisted Intervention–MICCAI 2021'
 paperurl: 'https://www.nature.com/articles/s41597-023-02100-7'
 projecturl: 'https://vindr.ai/datasets/mammo'
