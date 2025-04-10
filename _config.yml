@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Hieu (Hayden) T. Nguyen"
-description              : &description "I am interested in Deep Learning, Computer Vision, and Medical Imaging"
+description              : &description "I am interested in Computer Vision (reconstruction and generation) and Medical Imaging"
 url                      : https://hieu1999210.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hieu1999210.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Hieu T. Nguyen"
   pronouns         : # example: "she/her"  
-  bio              : "CS PhD student at Northeastern University."
+  bio              : "CS MS student at Northeastern University."
   location         : "Boston, MA, US."
   employer         : 
   uri              : # URL
