@@ -3,7 +3,7 @@ title: "HouseCrafter: Lifting Floorplans to 3D Scenes with 2D Diffusion Model"
 collection: publications
 permalink: housecrafter
 venue: 'Arxiv'
-paperurl: 'https://arxiv.org/abs/2406.20077'
+paperurl: 'https://openreview.net/forum?id=WKKD1Faobu'
 projecturl: 'https://neu-vi.github.io/houseCrafter/'
 # codeurl: 'https://arxiv.org/abs/2009.12111'
 authors: '<b>Hieu T. Nguyen*</b>, Yiwen Chen*, Vikram Voleti, Varun Jampani, Huaizu Jiang'
